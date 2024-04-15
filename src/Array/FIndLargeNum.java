@@ -11,7 +11,7 @@ public class FIndLargeNum {
 	}
 
 	public static void main(String[] args) {
-		int arrNum[] = { 1, 6, 8, 10, 15, 0, 2, 35 };
+		int arrNum[] = { 1, 6, 8, 50, 15, 0, 2, 35 };
 
 		largeNum(arrNum);
 
